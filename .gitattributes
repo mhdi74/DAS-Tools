@@ -1,0 +1,6 @@
+*.lsp text eol=crlf working-tree-encoding=UTF-8
+*.LSP text eol=crlf
+*.dcl text eol=crlf
+*.md text eol=lf
+*.xlsx binary
+*.ps1 text eol=crlf

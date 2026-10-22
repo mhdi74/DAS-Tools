@@ -1,0 +1,8 @@
+*.bak
+*.dwl
+*.dwl2
+*.log
+Thumbs.db
+~$*
+*.xlsx
+!templates/*.xlsx
